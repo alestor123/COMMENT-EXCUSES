@@ -1,0 +1,24 @@
+{
+  "name": "comment-excuses",
+  "version": "1.0.0",
+  "description": "This is a simple code for commenting excuses for you lazy code",
+  "main": "App.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/COMMENT-EXCUSES.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/COMMENT-EXCUSES/issues"
+  },
+  "homepage": "https://github.com/alestor123/COMMENT-EXCUSES#readme"
+}
